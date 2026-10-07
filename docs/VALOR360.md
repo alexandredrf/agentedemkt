@@ -36,7 +36,7 @@ Avalia, Amostrando Turbo e outras ferramentas de avaliação. **[CONFIRMAR]** gr
 
 ## Contas
 - Meta Ads: conta "Valor 360", ID `1943307259952979`, negócio `1348222600434709`, BRL. Pixel e API de Conversões ativos (evento de compra).
-- Instagram: **@valor360_**. Ainda não aparece vinculado à conta de anúncios (verificar no Meta Business).
+- Instagram: **@valor360_** (ID `17841479840324730`), vinculado à conta de anúncios e visível pelo conector (verificado em 2026-10-07). Página do Facebook Valor 360: `936778946186014`.
 - Google Ads: conta **176-544-6429** (`1765446429`). MCC: **[CONFIRMAR]**. Developer token e credencial pendentes.
 
 ## Hipóteses de público (a testar)
