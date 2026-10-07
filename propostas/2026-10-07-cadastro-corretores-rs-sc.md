@@ -67,5 +67,11 @@ Regra: nunca "parceria", "oficial", "homologado" ou logos do CRECI/COFECI. Pode:
 ## Execução
 - Públicos criados: Site | Visitantes 30d (`120251427403290183`), Site | Cadastros (CompleteRegistration) 180d (`120251427403400183`), Site | Iniciaram checkout 180d (`120251427403490183`).
 - Campanha criada, pausada (rascunho): "[02] Cadastro corretores RS/SC" (`120251427409330183`), objetivo Leads, CBO R$ 30/dia.
-- **Pendente:** conjuntos e anúncios. Bloqueio: a ferramenta exige a chave numérica das regiões RS e SC e não há como consultá-la daqui. Interesses também exigem IDs reais.
-- Criativo previsto: ad "card 02" (`120251302931770183`): "Aumente seus ganhos como corretor de imóveis", botão "Criar meu 1º laudo".
+- Conjuntos criados (rascunho, pausados), com local PROVISÓRIO "Brasil" e prefixo "AJUSTAR LOCAL RS e SC" no nome:
+  - Amplo Advantage+ 30-65 (`120251427529460183`)
+  - Engajaram IG 365D + semelhante 1% (`120251427529870183`), públicos usados como sinal (Advantage+).
+  - Objetivo de otimização: visualização da página de destino. Interesses não foram usados (exigem IDs reais).
+- Anúncios (3 por conjunto, 6 no total, pausados), reaproveitando criativos existentes: card 02 (criativo `1450006843693199`), card01 (`3197280320469700`) e card03, variação "Primeiro PTAM grátis" (`4434295433510691`).
+- **Correção:** o texto do card 02 já é o de "primeiro PTAM grátis" (1 crédito grátis, a partir de R$ 34,90). Não há criativo novo nesta fase; o terceiro é outra variação já existente.
+- **Pendente antes de ativar:** (1) trocar o local dos dois conjuntos para Rio Grande do Sul e Santa Catarina no Ads Manager; (2) conferir que o botão de cada anúncio abre `valor360.com.br/criar-conta` (link não verificável pela API; criativos são imutáveis, então sem UTM; o site marca clique do Meta como `meta/fbclid`); (3) definir a data de término (5 dias); (4) renomear os conjuntos sem "AJUSTAR LOCAL".
+- Em 06/10 23:15 o usuário ativou por engano a campanha de WhatsApp (sem gasto) e, por decisão dele, as campanhas "[01] Whatsapp" e "[01] Tráfego site" foram pausadas. Nenhuma campanha ativa na conta.
