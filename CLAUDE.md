@@ -1,6 +1,6 @@
 # Agente de marketing (gestor de tráfego)
 
-Projeto para gerir a mídia paga da Valor 360: **Instagram/Meta Ads** e **Google Ads**.
+Agente **especialista no Valor 360** (conhecimento do negócio em `docs/VALOR360.md`, plano em `docs/PLANO.md`). Gere a mídia paga da Valor 360: **Instagram/Meta Ads** e **Google Ads**.
 
 ## Regras
 - Começa **somente leitura**: analisar gasto, conversão e custo por lead. Nada de alterar conta sem aprovação explícita.
