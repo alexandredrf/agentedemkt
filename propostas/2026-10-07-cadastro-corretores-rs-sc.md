@@ -1,5 +1,5 @@
 # Proposta: campanha de cadastro de corretores, RS e SC (Meta)
-**Status: AGUARDANDO APROVAÇÃO. Nada foi criado na conta.**
+**Status: APROVADA em 07/10/2026 (Fase A, tudo pausado). Execução parcial: veja "Execução" no fim.**
 Conta: Valor 360 (`1943307259952979`). Página `936778946186014`. Instagram `@valor360_`.
 
 ## Diagnóstico (últimos 30 dias, só leitura)
@@ -57,3 +57,15 @@ Regra: nunca "parceria", "oficial", "homologado" ou logos do CRECI/COFECI. Pode:
 2. Teto de R$ 5: por crédito ou por compra? R$ 34,90: por laudo ou crédito?
 3. Aprovar a criação dos públicos do site.
 4. Aprovar começar a Fase A.
+
+## Decisões do usuário (07/10/2026)
+- Orçamento: R$ 30/dia por 5 dias (R$ 150 no total). O Meta exige teto de campanha mínimo de R$ 300, então o limite é o orçamento diário + data de término na ativação.
+- Preço: R$ 34,90 é o valor de **1 crédito**. Cadastro novo ganha 1 crédito grátis. Compra mínima: 2 créditos (R$ 69,80). Consumir 1 crédito finaliza 1 PTAM.
+- Teto: R$ 5 por crédito vendido, ou seja, ~R$ 10 por compra de 2 créditos.
+- Aprovado criar públicos do site e a campanha pausada.
+
+## Execução
+- Públicos criados: Site | Visitantes 30d (`120251427403290183`), Site | Cadastros (CompleteRegistration) 180d (`120251427403400183`), Site | Iniciaram checkout 180d (`120251427403490183`).
+- Campanha criada, pausada (rascunho): "[02] Cadastro corretores RS/SC" (`120251427409330183`), objetivo Leads, CBO R$ 30/dia.
+- **Pendente:** conjuntos e anúncios. Bloqueio: a ferramenta exige a chave numérica das regiões RS e SC e não há como consultá-la daqui. Interesses também exigem IDs reais.
+- Criativo previsto: ad "card 02" (`120251302931770183`): "Aumente seus ganhos como corretor de imóveis", botão "Criar meu 1º laudo".
