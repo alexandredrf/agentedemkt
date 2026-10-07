@@ -1,0 +1,6 @@
+.env
+*.json.key
+credenciais*
+venv/
+__pycache__/
+node_modules/
